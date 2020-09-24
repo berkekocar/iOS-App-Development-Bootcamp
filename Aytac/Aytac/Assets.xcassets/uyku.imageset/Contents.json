@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "WhatsApp Image 2020-04-13 at 15.58.57.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "WhatsApp Image 2020-04-13 at 15.58.57@2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "WhatsApp Image 2020-04-13 at 15.58.57@3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
